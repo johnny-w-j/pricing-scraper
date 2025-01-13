@@ -18,3 +18,5 @@ Thumbs.db
 scraper.js
 result*.txt
 package-lock.json
+pricingData.json
+pricingData.txt
