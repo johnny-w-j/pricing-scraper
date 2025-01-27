@@ -26,6 +26,7 @@ async function main() {
 
   // Maps for API providers and their pricing URLs
   const generalMap = new Map([
+    ["DeepSeek", "https://api-docs.deepseek.com/quick_start/pricing"],
     ["Groq", "https://groq.com/pricing"],
     ["Anthropic", "https://www.anthropic.com/pricing#anthropic-api"],
     ["AI21Labs", "https://www.ai21.com/pricing"],
